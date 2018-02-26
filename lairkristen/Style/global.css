@@ -1,0 +1,26 @@
+html {
+background-color: #c7b29a;
+font-size: 100%;
+}
+
+
+body { 
+    font-family: 'Lato', sans-serif; 
+    line-height: 1.4
+        color: #080808;
+}
+
+h1, h2, div {
+    font-family: 'Playfair Display', serif;
+    
+}
+    
+img {
+    width:100%
+}
+
+
+a:link { color:#1c2f00; }
+a:visited { color:#000d5d; }
+a:hover { color:#294401; }
+a:active { color:#755609; }
